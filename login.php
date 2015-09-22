@@ -93,7 +93,8 @@
 	</center>
 <?php } ?>
 
-<h2>Secondary Header</h2>
-
+<h3>Secondary Header</h3>
+<br/>
+<br/>
 </body>
 </html>
